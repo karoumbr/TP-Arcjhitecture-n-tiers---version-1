@@ -1,0 +1,15 @@
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.csprojAssemblyReference.cache
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows_Forms.Form1.resources
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows_Forms.Properties.Resources.resources
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.csproj.GenerateResource.cache
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\Windows Forms.exe.config
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\Windows Forms.exe
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\Windows Forms.pdb
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\BAL.dll
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\DAL.dll
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\BAL.pdb
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\bin\Debug\DAL.pdb
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.csproj.CopyComplete
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.exe
+C:\Users\karou\source\repos\Solution 3-tiers couches separees\Windows Forms\obj\Debug\Windows Forms.pdb
